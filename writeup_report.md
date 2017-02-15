@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 
 [image1]: ./model.png "Model Visualization"
 [image2]: ./processed_image.png "Processed Image"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
+[image3]: ./wall1.png "Recovery Image"
+[image4]: ./redline1.png "Recovery Image"
+[image5]: ./yellowline1.png "Recovery Image"
 [image6]: ./processed_image.png "Normal Image"
 [image7]: ./flip_image.png "Flipped Image"
 
